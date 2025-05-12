@@ -1,4 +1,8 @@
-Oiii! Eu sou a Mérilyn Aroucha 
+# Oiii! Eu sou a Mérilyn Aroucha 
+
+---
+
+## Minhas Estatísticas
 
 <div align="center">
   <table style="border-collapse: collapse;">
@@ -13,7 +17,11 @@ Oiii! Eu sou a Mérilyn Aroucha
   </table>
 </div>
 
-<div style="display: inline_block"><br>
+---
+
+## Ferramentas e Tecnologias
+
+<div style="display: inline_block; text-align: center;"><br>
   <img align="center" alt="Merilyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Merilyn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Merilyn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,8 +30,10 @@ Oiii! Eu sou a Mérilyn Aroucha
   <img align="center" alt="Merilyn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Merilyn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-##
+
+---
+
+## Conecte-se Comigo
 
 <div align="center"> 
   <table style="border-collapse: collapse;">
@@ -42,6 +52,8 @@ Oiii! Eu sou a Mérilyn Aroucha
     </tr>
   </table>
 </div>
+
+---
 
 ### ID do Free Fire: 2083533830
 ```
