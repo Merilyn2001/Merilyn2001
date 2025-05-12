@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Mérilyn Aroucha 
+Oiii! Eu sou a Mérilyn Aroucha 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Merilyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
