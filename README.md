@@ -1,15 +1,18 @@
-Oiii! Eu sou a Mérilyn Aroucha 
-markdown
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Merilyn2001&show_icons=true&theme=radical" alt="Merilyn Aroucha GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merilyn2001&layout=compact&theme=radical" alt="Most Used Languages">
-    </td>
-  </tr>
-</table>
+##Oiii! Eu sou a Mérilyn Aroucha 
+
+```markdown
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding: 10px; border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merilyn2001&show_icons=true&theme=radical" alt="Merilyn Aroucha GitHub Stats" />
+      </td>
+      <td style="padding: 10px; border: none;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merilyn2001&layout=compact&theme=radical" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Merilyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
