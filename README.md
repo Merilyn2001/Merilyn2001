@@ -1,11 +1,5 @@
 ## Oiii! Eu sou a Mérilyn Aroucha 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Typescript 
-- 😄 Pronouns: ela/dela
-
-## Tecnologias e Ferramentas
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Merilyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Merilyn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
