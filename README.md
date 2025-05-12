@@ -24,14 +24,23 @@ Oiii! Eu sou a Mérilyn Aroucha
 </div>
   
 ##
- 
-<div> 
-  <a href="https://www.youtube.com/@merilynarouch3438" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mery__barros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/merilyn_barros" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:merilyn.aroucha@acad.ifma.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/m%C3%A9rilyn-aroucha-299279212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.ff.garena.com/" target="_blank"><img src="https://img.shields.io/badge/Free%20Fire-FFBB00?style=for-the-badge&logo=freefire&logoColor=white" target="_blank"></a>
+
+<div align="center"> 
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <a href="https://www.youtube.com/@merilynarouch3438" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href="https://instagram.com/mery__barros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://discord.gg/merilyn_barros" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+        <a href="mailto:merilyn.aroucha@acad.ifma.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/m%C3%A9rilyn-aroucha-299279212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.ff.garena.com/" target="_blank"><img src="https://img.shields.io/badge/Free%20Fire-FFBB00?style=for-the-badge&logo=freefire&logoColor=white" target="_blank"></a>
+      </td>
+      <td style="border: none; padding: 0;">
+        <img src="https://media.giphy.com/media/UrOoKqAQotRKn8kdg9/giphy.gif" alt="Anime Girl GIF" width="100" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### ID do Free Fire: 2083533830
