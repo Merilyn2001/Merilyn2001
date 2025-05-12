@@ -1,12 +1,12 @@
 Oiii! Eu sou a Mérilyn Aroucha 
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td style="padding: 10px; border: none;">
+      <td style="border: none; padding: 0;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merilyn2001&show_icons=true&theme=radical" alt="Merilyn Aroucha GitHub Stats" />
       </td>
-      <td style="padding: 10px; border: none;">
+      <td style="border: none; padding: 0;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merilyn2001&layout=compact&theme=radical" alt="Most Used Languages" />
       </td>
     </tr>
