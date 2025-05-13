@@ -44,4 +44,5 @@ Oiii! Eu sou a Mérilyn Aroucha
 </div>
 
 ### ID do Free Fire: 2083533830
-```
+
+![Snake animation](https://github.com/Merilyn2001/Merilyn2001/blob/output/github-contribution-grid-snake.svg)
